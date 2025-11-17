@@ -83,17 +83,17 @@ Building this system helped in understanding real-world recommendation logic, fe
 ---
 ## 📸 Screenshots
 
-### 🔹 Initial UI Before Recommendations
-![screenshots](screenshots/MRS 1.jpg)
-### 🔹 Movie Dropdown Selection Interface
-![Movie Recommendation Screenshot 3](screenshots/MRS_3.jpg)
-
 ### 🔹 Homepage & Recommendations (Iron Man)
 ![Movie Recommendation Screenshot 1](screenshots/MRS_1.jpg)
 
 ### 🔹 Recommendations for Batman Series
 ![Movie Recommendation Screenshot 2](screenshots/MRS_2.jpg)
 
+### 🔹 Movie Dropdown Selection Interface
+![Movie Recommendation Screenshot 3](screenshots/MRS_3.jpg)
+
+### 🔹 Initial UI Before Recommendations
+![Movie Recommendation Screenshot 4](screenshots/MRS_4.jpg)
 
 
 
