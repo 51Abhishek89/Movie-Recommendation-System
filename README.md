@@ -20,7 +20,15 @@ Building this system helped in understanding real-world recommendation logic, fe
 
 ## 🏗️ Architecture
 
+![Movie Recommendation Architecture](screenshots/movie_recommendation_architecture.png)
 
+## File Structure
+├── app.py
+├── movies_dict.pkl
+├── similarity.pkl
+├── README.md
+└── screenshots/
+      └── movie_recommendation_architecture.png
 
 - **movies_dict.pkl**: Metadata of movies  
 - **similarity.pkl**: Precomputed cosine similarity matrix  
@@ -73,7 +81,21 @@ Building this system helped in understanding real-world recommendation logic, fe
 - **Sorting & Ranking Based on Similarity Scores**
 
 ---
+## 📸 Screenshots
 
-## 🖼️ Screenshots
-(Add your images in the repo and replace the paths below)
+### 🔹 Initial UI Before Recommendations
+![screenshots](screenshots/MRS 1.jpg)
+### 🔹 Movie Dropdown Selection Interface
+![Movie Recommendation Screenshot 3](screenshots/MRS_3.jpg)
+
+### 🔹 Homepage & Recommendations (Iron Man)
+![Movie Recommendation Screenshot 1](screenshots/MRS_1.jpg)
+
+### 🔹 Recommendations for Batman Series
+![Movie Recommendation Screenshot 2](screenshots/MRS_2.jpg)
+
+
+
+
+
 
